@@ -1,5 +1,5 @@
 # D. Malk
-## Ma'oe 👋, I'm Daniel Malkafly, I'm a Code Exorcist (also developer), my personal github is @malkafly
+## Ma'oe 👋, I'm Daniel Malkafly, I'm a Code Exorcist (also developer)
 
 - 🔭 I’m currently working on *CloudWalk*
 
