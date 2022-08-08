@@ -1,16 +1,20 @@
-### Hi there 👋
+ # D. Malk
+## Ma'oe 👋,
 
-<!--
-**malkafly-cw/malkafly-cw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Daniel Malkafly, I'm a Code Exorcist (also developer), my personal github is @malkafly
 
-Here are some ideas to get you started:
+<table align="center">
+  <row>
+    <td>
+     <!-- Card -->
+      <img height='200' src='https://github-readme-stats.vercel.app/api/top-langs/?username=malkafly&layout=compact&theme=default_repocard'>
+    </td>
+    <td>
+      <img height='200' src='https://github-readme-stats.vercel.app/api?username=malkafly&show_icons=true&theme=default_repocard'>
+    </td>
+  </row>
+</table> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div><br />
+
+"Do not go gentle into that good night." - Dylan Thomas
